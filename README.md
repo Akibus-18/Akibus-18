@@ -121,11 +121,10 @@ Credential verified by **WES**
 
 ## 🚀 Featured Cyber Projects
 
-- **AWS Project Sentinel-IAM**
-- **Threat Hunting & Incident Response Lab**
-- **Phishing Detection & Awareness Campaign**
-- **GRC Policy & Risk Assessment Exercises**
-
+- <a href="https://google.com">AWS Project Sentinel-IAM</a>
+- <a href="https://google.com">Threat Hunting & Incident Response Lab</a>
+- <a href="https://google.com">Phishing Detection & Awareness Campaign</a>
+  
 ---
 
 ## 📌 Additional Info
