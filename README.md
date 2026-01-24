@@ -121,8 +121,8 @@ Credential verified by **WES**
 
 ## 🚀 Featured Cyber Projects
 
-- <a href="https://github.com/Akibus-18/Least-Privilege-Implementation-in-AWS/blob/main/README.md">AWS Project Sentinel-IAM</a>
-- <a href="https://google.com">Threat Hunting & Incident Response Lab</a>
+- <a href="https://github.com/Akibus-18/Least-Privilege-Implementation-in-AWS/blob/main/README.md">Least Privilede Implementation in AWS</a>
+- <a href="https://github.com/Akibus-18/Risk-Assessment-Mitigation/blob/main/README.md">Risk Assessment & Security Breach Impact</a>
 - <a href="https://google.com">Phishing Detection & Awareness Campaign</a>
   
 ---
