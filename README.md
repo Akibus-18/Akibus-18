@@ -143,6 +143,7 @@ Credential verified by WES
 
 - <a href="https://github.com/Akibus-18/Least-Privilege-Implementation-in-AWS/blob/main/README.md">Least Privilege Implementation in AWS</a>
 - <a href="https://github.com/Akibus-18/Risk-Assessment-Mitigation/blob/main/README.md">Risk Assessment & Security Breach Impact</a>
+- <a href="https://github.com/Akibus-18/Vulnerability-Scanning-Assessment/blob/main/README.md">Vulnerability Scanning</a>
 
 ---
 
