@@ -27,16 +27,16 @@
 
 ## 🧠 About Me
 
-Security+ certified **Cybersecurity Professional** specializing in **AWS Cloud Security, Identity & Access Management, SOC Operations, Threat Detection, Incident Response, and Governance, Risk & Compliance (GRC)**.  
-Experienced in **log analysis, vulnerability management, risk assessments, and least-privilege access control**, aligned with **NIST CSF** and **ISO 27001** standards.
+Security+ certified **Cybersecurity Professional** specializing in **AWS Cloud Security, Identity & Access Management, SOC Operations, Threat Detection, Incident Response, Vulnerability Management, and Governance, Risk & Compliance (GRC)**.  
+Experienced in **log analysis, vulnerability scanning, risk assessments, least-privilege access control, and security documentation**, aligned with **NIST CSF** and **ISO 27001** standards.
 
-Currently completing an **intensive GRC training program** and seeking roles in **SOC, Cloud Security, Security Operations, or GRC**.
+Currently completing an **intensive GRC training program** and seeking roles in **SOC, Cloud Security, Security Operations, Vulnerability Management, or GRC**.
 
 ---
 
 ## 🎯 Career Objective
 
-To contribute to a high-impact cybersecurity team by **detecting threats, responding to incidents, reducing risk exposure, and strengthening enterprise security posture** across cloud and on-prem environments.
+To contribute to a high-impact cybersecurity team by **detecting threats, responding to incidents, reducing risk exposure, conducting vulnerability assessments, and strengthening enterprise security posture** across cloud and on-prem environments.
 
 ---
 
@@ -47,8 +47,9 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 | Cloud Security | AWS IAM, EC2 Security, Least Privilege, Tag-Based Access |
 | SOC Operations | Alert Triage, Incident Response, Threat Hunting |
 | SIEM & Logging | Splunk, Wazuh, Log Analysis |
+| Vulnerability Management | Nessus Scanning, Nmap Enumeration, OWASP Top 10, Risk Prioritization |
+| Network Analysis | Wireshark Packet Inspection, Traffic Analysis |
 | Threat Intelligence | IOC Analysis, Attack Pattern Detection |
-| Vulnerability Management | OWASP Top 10, Risk Prioritization |
 | Governance & Compliance | NIST CSF, ISO 27001, GRC |
 | Security Reporting | Executive & Technical Documentation |
 
@@ -62,17 +63,36 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00ffff" />
 </p>
 
+---
+
 ### 📊 SIEM & Detection
 <p>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ffff" />
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=elastic&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/TheHive-FF6B6B?style=for-the-badge&logo=thehive&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
+
+---
+
+### 🔎 Vulnerability Scanning & Assessment
+<p>
+<img src="https://img.shields.io/badge/Nessus-00B5E2?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+---
 
 ### 🌐 Network Security
 <p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
 </p>
+
+---
 
 ### 🛡 Endpoint Protection
 <p>
@@ -86,14 +106,14 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 ### 🏦 Mastercard Cybersecurity Virtual Experience *(Jan 2026)*
 - Analyzed phishing simulations & malicious indicators  
 - Identified high-risk user groups and awareness gaps  
-- Developed **anti-phishing awareness strategy**  
-- Produced **professional security assessment reports**
+- Developed anti-phishing awareness strategy  
+- Produced professional security assessment reports  
 
 ### 🛡 Datacom Threat Hunting Simulation *(Jan 2026)*
 - Investigated simulated enterprise cyberattack  
-- Performed **log analysis, IOC discovery, attacker profiling**  
-- Conducted **risk impact assessment**  
-- Delivered **incident response & mitigation recommendations**
+- Performed log analysis, IOC discovery, and attacker profiling  
+- Conducted risk impact assessment  
+- Delivered incident response & mitigation recommendations  
 
 ---
 
@@ -104,7 +124,7 @@ Canadian Imperial College — Edmonton, AB *(2023)*
 
 **Bachelor’s Degree in BioSystem Engineering**  
 University of Ilorin — Nigeria *(2020)*  
-Credential verified by **WES**
+Credential verified by WES  
 
 ---
 
@@ -123,14 +143,14 @@ Credential verified by **WES**
 
 - <a href="https://github.com/Akibus-18/Least-Privilege-Implementation-in-AWS/blob/main/README.md">Least Privilege Implementation in AWS</a>
 - <a href="https://github.com/Akibus-18/Risk-Assessment-Mitigation/blob/main/README.md">Risk Assessment & Security Breach Impact</a>
-  
+
 ---
 
 ## 📌 Additional Info
 
-✔ Authorized to work in **Canada**  
-✔ Open to **nationwide relocation**  
-✔ Completing **GRC Training (March 2026)**  
+✔ Authorized to work in Canada  
+✔ Open to nationwide relocation  
+✔ Completing GRC Training (March 2026)  
 
 ---
 
