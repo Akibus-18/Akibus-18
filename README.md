@@ -122,7 +122,7 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 **Diploma in Computer Technology**  
 Canadian Imperial College — Edmonton, AB *(2023)*  
 
-**Bachelor’s Degree in BioSystem Engineering**  
+**Bachelor’s Degree in BioSystems Engineering**  
 University of Ilorin — Nigeria *(2020)*  
 Credential verified by WES  
 
@@ -135,6 +135,7 @@ Credential verified by WES
 <img src="https://img.shields.io/badge/Cybersecurity_Operations-006400?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cybersecurity_Simulation-000080?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Project_Management-4D4D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/(ISC)2_CAP_Certification-006400?style=for-the-badge" />
 </p>
 
 ---
@@ -151,7 +152,7 @@ Credential verified by WES
 
 ✔ Authorized to work in Canada  
 ✔ Open to nationwide relocation  
-✔ Completing GRC Training (March 2026)  
+✔ Completed GRC 
 
 ---
 
