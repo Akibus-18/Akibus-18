@@ -50,7 +50,7 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 | Vulnerability Management | Nessus Scanning, Nmap Enumeration, OWASP Top 10, Risk Prioritization |
 | Network Analysis | Wireshark Packet Inspection, Traffic Analysis |
 | Threat Intelligence | IOC Analysis, Attack Pattern Detection |
-| Governance & Compliance | NIST CSF, ISO 27001, GRC |
+| Governance & Compliance | NIST CSF, ISO 27001, RMF, PCI-DSS, TPRM, HIPAA, HITRUST |
 | Security Reporting | Executive & Technical Documentation |
 
 ---
@@ -60,8 +60,11 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 ### ☁ Cloud & Identity
 <p>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00ffff" />
-</p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AD_(Entra_ID)-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/OneTrust-1F3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ServiceNow_GRC-81B441?style=for-the-badge&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/RSA_Archer-FF6F00?style=for-the-badge&logoColor=white" />
 
 ---
 
@@ -148,11 +151,9 @@ Credential verified by WES
 
 ---
 
-## 📌 Additional Info
-
-✔ Authorized to work in Canada  
+## 📌 Additional Info 
 ✔ Open to nationwide relocation  
-✔ Completed GRC 
+
 
 ---
 
