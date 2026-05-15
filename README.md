@@ -106,6 +106,27 @@ To contribute to a high-impact cybersecurity team by **detecting threats, respon
 
 ## 🧪 Cybersecurity Experience
 
+ ### Cybersecurity Analyst 
+*Top Group Technologies, United State | Jan 2023 – Present* 
+- Developed SSPs, SARs, and ATO documentation aligned with NIST RMF
+- Managed POA&M lifecycle, ensuring timely remediation of vulnerabilities
+- Conducted system categorization (FIPS 199, NIST SP 800-60)
+-  Performed security control assessments (NIST SP 800-53A)
+-  dentified and mitigated vulnerabilities across systems and networks
+- Utilized Nessus, Nmap, and Wireshark for continuous monitoring
+-  Implemented CIS-aligned security policies and controls 
+
+ ### System Analyst 
+*Tuyil Pharmaceutical Industries Ltd, Nigeria | Jan 2020 – Jan 2023* 
+- Conducted IT risk assessments aligned with NIST SP 800-53
+- Managed RBAC for 100+ users, enforcing least privilege
+- Performed system access reviews ensuring CIA compliance
+- Analyzed logs and resolved 90%+ of incidents within SLA
+- Prepared A&A documentation (SSP, POA&M, risk assessments)
+- Conducted PIA/PTA and supported compliance initiatives
+- Reduced recurring risks by 20% through mitigation strategies 
+
+
 ### 🏦 Mastercard Cybersecurity Virtual Experience *(Jan 2026)*
 - Analyzed phishing simulations & malicious indicators  
 - Identified high-risk user groups and awareness gaps  
