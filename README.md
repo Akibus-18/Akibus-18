@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Akibu%20Sofiu%20Olawale&fontSize=40&fontColor=00ffff&animation=fadeIn" />
 
 <h3>Security+ Certified Cybersecurity Professional</h3>
-<p>Cloud Security • SOC • Threat Detection • GRC</p>
+<p>GRC Analyst • TPRM • PCI DSS • ISO 27001 • NIST • RMF</p>
 
 <p>
 <a href="https://www.linkedin.com/in/akibu-sofiu">
@@ -19,7 +19,9 @@
 <img src="https://img.shields.io/badge/Location-Edmonton%2C%20Canada-00ffff?style=for-the-badge&labelColor=0f2027" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Cloud+Security+Engineer;SOC+Analyst;Threat+Hunter;GRC+Specialist" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Cloud+Security+Engineer;SOC+Analyst;Threat+Hunter;GRC+Specialist;TPRM+Analyst;PCI+DSS+Analyst;ISO27001+Expert" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -27,31 +29,37 @@
 
 ## 🧠 About Me
 
-Security+ certified **Cybersecurity Professional** specializing in **AWS Cloud Security, Identity & Access Management, SOC Operations, Threat Detection, Incident Response, Vulnerability Management, and Governance, Risk & Compliance (GRC)**.  
-Experienced in **log analysis, vulnerability scanning, risk assessments, least-privilege access control, and security documentation**, aligned with **NIST CSF** and **ISO 27001** standards.
+GRC Cybersecurity Analyst with expertise in Governance, Risk & Compliance (GRC), Third-Party Risk Management (TPRM), Cybersecurity Risk Assessments, Cloud Security, Identity & Access Management (IAM), Security Operations, and Vulnerability Management. Proven experience assessing security controls, evaluating vendor risk, supporting compliance initiatives, conducting gap analyses, and developing security documentation aligned with NIST CSF, ISO 27001, SOC 2, PCI DSS, and regulatory requirements. Adept at bridging technical cybersecurity operations with business risk management to enhance organizational resilience, regulatory readiness, and security maturity.
 
-Currently completing an **intensive GRC training program** and seeking roles in **SOC, Cloud Security, Security Operations, Vulnerability Management, or GRC**.
+
 
 ---
 
 ## 🎯 Career Objective
 
-To contribute to a high-impact cybersecurity team by **detecting threats, responding to incidents, reducing risk exposure, conducting vulnerability assessments, and strengthening enterprise security posture** across cloud and on-prem environments.
+To drive organizational security and compliance excellence by applying expertise in Governance, Risk & Compliance (GRC), Third-Party Risk Management (TPRM), cybersecurity risk assessments, and security governance. Passionate about helping organizations reduce risk exposure, strengthen regulatory compliance, improve security maturity, and build resilient cybersecurity programs aligned with industry frameworks such as NIST CSF, ISO 27001, SOC 2, and PCI DSS.
 
 ---
 
-## ⚡ Core Cybersecurity Skills
+## ⚡ Core Cybersecurity & GRC Competencies
 
-| Domain | Expertise |
-|---|---|
-| Cloud Security | AWS IAM, EC2 Security, Least Privilege, Tag-Based Access |
-| SOC Operations | Alert Triage, Incident Response, Threat Hunting |
-| SIEM & Logging | Splunk, Wazuh, Log Analysis |
-| Vulnerability Management | Nessus Scanning, Nmap Enumeration, OWASP Top 10, Risk Prioritization |
-| Network Analysis | Wireshark Packet Inspection, Traffic Analysis |
-| Threat Intelligence | IOC Analysis, Attack Pattern Detection |
-| Governance & Compliance | NIST CSF, ISO 27001, RMF, PCI-DSS, TPRM, HIPAA, HITRUST |
-| Security Reporting | Executive & Technical Documentation |
+| Domain                                  | Expertise                                                                                                      |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Governance, Risk & Compliance (GRC)** | Risk Assessments, Control Evaluation, Gap Analysis, Compliance Monitoring, Security Governance                 |
+| **Third-Party Risk Management (TPRM)**  | Vendor Risk Assessments, Due Diligence Reviews, Security Questionnaires, Risk Reporting, Vendor Compliance     |
+| **Regulatory & Security Frameworks**    | NIST CSF, ISO 27001, NIST RMF, SOC 2, PCI DSS, HIPAA, HITRUST                                                  |
+| **Cloud Security**                      | AWS IAM, Identity Governance, Least Privilege, EC2 Security, Access Control, Cloud Risk Management             |
+| **Identity & Access Management (IAM)**  | Role-Based Access Control (RBAC), Access Reviews, Privileged Access Management, Authentication & Authorization |
+| **Security Operations (SOC)**           | Security Monitoring, Alert Triage, Incident Investigation, Threat Detection, Incident Response                 |
+| **SIEM & Log Analysis**                 | Splunk, Wazuh, Log Correlation, Security Event Analysis, Threat Monitoring                                     |
+| **Vulnerability Management**            | Nessus, Nmap, Vulnerability Assessments, Risk Prioritization, Remediation Tracking, OWASP Top 10               |
+| **Threat Intelligence**                 | IOC Analysis, Threat Research, Attack Pattern Identification, Security Investigations                          |
+| **Network Security Analysis**           | Wireshark, Traffic Analysis, Network Monitoring, Protocol Inspection                                           |
+| **Security Documentation & Reporting**  | Risk Registers, Compliance Reports, Audit Documentation, Executive Reporting, Security Policies & Procedures   |
+| **Audit & Compliance Support**          | Control Testing, Evidence Collection, Compliance Validation, Internal Audit Readiness                          |
+
+</table>
+
 
 ---
 
