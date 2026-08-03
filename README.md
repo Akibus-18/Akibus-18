@@ -180,7 +180,7 @@ Credential verified by WES
 - <a href="https://github.com/Akibus-18/Cybersecurity-Risk-Management-Capstone/blob/main/README.md">Cybersecurity-Risk-Management</a>
 - <a href="https://github.com/Akibus-18/TPRM-AI-Platform-">Third Party Risk Management AI Platform</a>
 - <a href="https://github.com/Akibus-18/Healthcare-Third-Party-Risk-Management">Healthcare-Third-Party-Risk-Management</a>
-
+- <a href="https://github.com/Akibus-18/Mastercard-PCI-DSS-v4.0-Compliance-Project">Mastercard-PCI-DSS-v4.0-Compliance-Project</a>
 ---
 
 ## 📌 Additional Info 
