@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Akibu%20Sofiu%20Olawale&fontSize=40&fontColor=00ffff&animation=fadeIn" />
 
 <h3>Security+ Certified Cybersecurity Professional</h3>
-<p>GRC Analyst • TPRM • PCI DSS • ISO 27001 • NIST • RMF</p>
+<p>GRC Analyst • TPRM • SOC 2 • PCI DSS • ISO 27001 • NIST • RMF</p>
 
 <p>
 <a href="https://www.linkedin.com/in/akibu-sofiu">
